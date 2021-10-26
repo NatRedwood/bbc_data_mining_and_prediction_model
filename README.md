@@ -1,8 +1,6 @@
 # BBC News Data Mining and Text Classification with Predcition Model
 This project is a part of the individual tutoring program in Varsity Tutors.
 
-#### -- Project Status: [Completed]
-
 ## Project Description
 The purpose of this project is:
 1. Extracting important features of BBC News using NLTK tools like: stemming, tokenizing, removing stopwords.
