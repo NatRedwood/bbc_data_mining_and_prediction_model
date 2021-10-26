@@ -1,4 +1,4 @@
-# BBC News Data Mining and Text Classification with Predcition Model
+# BBC News Data Mining and Text Classification with Prediction Model
 This project is a part of the individual tutoring program in Varsity Tutors.
 
 ## Project Description
