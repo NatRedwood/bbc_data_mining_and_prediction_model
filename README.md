@@ -31,6 +31,12 @@ The purpose of this project is:
 - data processing/cleaning
 - statistical modeling
 
+## Project plots and graphs
+1. Distribution of text categories over the corpus: [link](https://github.com/Nwojarnik/bbc_data_mining_and_prediction_model/blob/main/distribution%20of%20text%20categories.png)
+2. Tf-idf feature vector for each article: [link](https://github.com/Nwojarnik/bbc_data_mining_and_prediction_model/blob/main/tf-idf%20feature%20vector.png)
+3. Accuracy of 3 different models: [link](https://github.com/Nwojarnik/bbc_data_mining_and_prediction_model/blob/main/accuracy%20of%20different%20models.png)
+4. Confusion Matrix: [link](https://github.com/Nwojarnik/bbc_data_mining_and_prediction_model/blob/main/confusion%20matrix%20of%20models.png)
+
 ## Get Started
 
 1. Clone this repo: tutorial [link](https://help.github.com/articles/cloning-a-repository/)
